@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/fit-track-app/', 
+  base: 'https://github.com/mireiaacss/fit-track-app', 
 })
