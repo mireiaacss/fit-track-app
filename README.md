@@ -1,4 +1,4 @@
-# FitTrack Pro
+# FitTrack
 
 Una agenda de entrenamiento minimalista, aesthetic y altamente personalizable.
 
