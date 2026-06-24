@@ -1,6 +1,6 @@
 # FitTrack
 
-Una agenda de entrenamiento minimalista, aesthetic y altamente personalizable.
+Una agenda de entrenamiento minimalista y altamente personalizable.
 
 ## Características
 - **Gamificación**: Seguimiento de rachas (streak) con indicador visual.
